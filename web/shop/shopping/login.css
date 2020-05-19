@@ -1,0 +1,16 @@
+.text {
+}
+.pass-input {
+    margin-top : 15px;
+}
+.pass-input,
+.id-input {
+    line-height: 30px;
+}
+.login-btn {
+}
+
+.login-p2,
+.login-p {
+    margin-left : 50px;
+}
